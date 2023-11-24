@@ -1,4 +1,4 @@
-央视CCTV,#genre#
+🏆新春央视,#genre#
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV1,http://120.196.232.38:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226667/1.m3u8
 卫视,#genre#
