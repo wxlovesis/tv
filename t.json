@@ -1,0 +1,35 @@
+{
+"央视":[
+        {"epg":"CCTV1",
+         "title":"中央综合",
+     "url":"http://120.196.232.38:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226667/1.m3u8"},
+        {"epg":"CCTV2",
+         "title":"中央财*",
+     "url":"http://www/2.ts"},
+    {"epg":"CCTV13",
+         "title":"央视新闻",
+     "url":"https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8"}
+         ],
+"卫视":[
+        {"epg":"CCTV1",
+         "title":"卫视1",
+     "url":"http://www/11.ts"},
+        {"epg":"CCTV2",
+         "title":"卫视2",
+     "url":"http://www/21.ts"},
+    {"epg":"CCTV3",
+         "title":"卫视3",
+     "url":"http://www/31.ts"}
+         ],
+"港台":[
+        {"epg":"CCTV1",
+         "title":"港台1",
+     "url":"http://www/12.ts"},
+        {"epg":"CCTV2",
+         "title":"港台2",
+     "url":"http://www/22.ts"},
+    {"epg":"CCTV3",
+         "title":"港台3",
+"url":"http://www/32.ts"}
+]
+}
